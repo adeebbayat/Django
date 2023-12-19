@@ -1,0 +1,24 @@
+
+.topContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width:30%;
+    margin:auto;
+}
+
+.botContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width:40%;
+    margin:auto;
+    margin-top: 20px;;
+}
+.botContainer h2{
+    margin: 0px;
+    padding: 0px;
+}
